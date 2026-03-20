@@ -102,8 +102,8 @@ At the end of every run, FlowTest Studio generates an exhaustive summary.
 ---
 
 ## 👤 Author
-**Arjun Raj**
-*Technical Product Manager*
+**Kumari Priya Jha**
+*QA engineer*
 
 ---
 > **Final Note:** FlowTest Studio is engineered for reliability and ease of use, ensuring that backend testing is no longer a bottleneck for development teams.
